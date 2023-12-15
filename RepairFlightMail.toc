@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Repair Flight Mail
+## Author: Warpman (based on AutoDB by Lexie)
+## Notes:  Marks Repair NPCs, Flight masters and Mailboxes on map
+## Dependencies: pfQuest
+## Version: 1
+
+RepairFlightMail.lua
