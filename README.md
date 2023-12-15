@@ -7,4 +7,7 @@ Requires pfQuest.
 
 This addon's code is very loosely based on AutoDB by Lexie.  
 
-get a list of all the the repair vendors added by twow, (currently addon only shows the repair npcs which are in vanilla wow, ie doesnt show any added by twow)
+
+## TO DO
+
+- get a list of all the the repair vendors added by twow, (currently addon only shows the repair npcs which are in vanilla wow, ie doesnt show any added by twow)
