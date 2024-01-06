@@ -31,6 +31,7 @@ frame:SetScript("OnEvent",function(self,event,...)
 		
 
 
+		pfDatabase:SearchObject("Mechanical Mailbox", meta_mail, "LOWER")
 		for _,val in pairs(neutral_repairs) do
 			pfDatabase:SearchMob(val, meta_repair, "LOWER")
 		end
